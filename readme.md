@@ -1,5 +1,5 @@
 # Simple Webpack
-###### The main goal of this is a if you want to use npm library without relative path. please take your time to use this little library
+###### This is a simple libary, "maybe" for you if you want to use babel and webpack for the first time
 
 
 ## Documentation
