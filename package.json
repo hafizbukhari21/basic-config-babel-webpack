@@ -4,9 +4,9 @@
   "description": "hehehe te nandayo",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode=development",
-    "build": "webpack --mode=production",
-    "dev": "webpack-dev-server"
+    "start-hafiz": "webpack --mode=development",
+    "build-hafiz": "webpack --mode=production",
+    "dev-hafiz": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
