@@ -14,7 +14,7 @@ npm install
 npm run server-hafiz
 ```
 
-#### Start Static mode
+#### Start Dev mode
 ```bash
 npm run start-hafiz
 ```
