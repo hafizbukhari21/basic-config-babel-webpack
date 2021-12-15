@@ -9,14 +9,21 @@
 npm install
 ```
 
-```bash
-npm start-hafiz
-```
-
 #### Start Server mode
 ```bash
-npm run dev-hafiz
+npm run server-hafiz
 ```
+
+#### Start Static mode
+```bash
+npm run start-hafiz
+```
+
+- you can write your main html file in public/ directory 
+- all javascript module can be place in src/ directory
+
+Thans
+
 
 
 

@@ -6,7 +6,7 @@
   "scripts": {
     "start-hafiz": "webpack --mode=development",
     "build-hafiz": "webpack --mode=production",
-    "dev-hafiz": "webpack-dev-server"
+    "server-hafiz": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
