@@ -3,7 +3,7 @@
 
 ## Documentation
 - Clone from this repository then type ___npm install___ for first time
-- type ___npm start-hafiz___ then ___npm run dev-hafiz___ for running from node server
+- type ___npm run start-hafiz___ then ___npm run dev-hafiz___ for running from node server
 
 ```bash
 npm install
