@@ -1,4 +1,4 @@
-# Simple Webpack
+# Simple Webpack & Babel JS
 
 
 ## Documentation
