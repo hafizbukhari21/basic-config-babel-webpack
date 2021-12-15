@@ -1,5 +1,4 @@
 # Simple Webpack
-###### This is a simple libary, "maybe" for you if you want to use babel and webpack for the first time
 
 
 ## Documentation
@@ -8,9 +7,18 @@
 
 ```bash
 npm install
+```
+
+```bash
 npm start-hafiz
+```
+
+####Start Server mode
+```bash
 npm run dev-hafiz
 ```
+
+
 
 ## Simple Api
 [http://sheltered-reaches-95604.herokuapp.com/api/showData](http://sheltered-reaches-95604.herokuapp.com/api/showData)
